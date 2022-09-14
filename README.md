@@ -6,7 +6,7 @@ Projeto em desenvolvimento no evento NLW Return da Rocketseat. O DoctorCare é u
 O objetivo desse projeto é desenvolver habilidades técnicas com linguagens voltadas para o desenvolvimento Front-end e habilidades comportamentais como comunicação, colaboração, resolução de problemas, autogerenciamento e responsabilização.
 
 
-<img src="" alt="">
+<img src="CapaDoctorCare.png" alt="Imagem de capa, apresentando o projeto para desktop e mobile">
 
 
 ## 🛠️ Tecnologias utilizadas
