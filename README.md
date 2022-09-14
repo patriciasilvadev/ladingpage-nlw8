@@ -18,7 +18,7 @@ O objetivo desse projeto é desenvolver habilidades técnicas com linguagens vol
 ## 🚀 Rodando o projeto
 Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando para iniciar o projeto:
 ```
-<linha de comando>
+git clone <https://github.com/patriciasilvadev/ladingpage-nlw8.git>
 ```
 
 ## Contato
