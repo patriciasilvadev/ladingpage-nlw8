@@ -33,11 +33,6 @@ Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando 
 <linha de comando>
 ```
 
-<!-- LICENSE -->
-## 📄 License
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-
 <!-- CONTACT -->
 ## Contact
 
