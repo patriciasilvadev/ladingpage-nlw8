@@ -6,19 +6,7 @@ Projeto em desenvolvimento no evento NLW Return da Rocketseat. O DoctorCare é u
 O objetivo desse projeto é desenvolver habilidades técnicas com linguagens voltadas para o desenvolvimento Front-end e habilidades comportamentais como comunicação, colaboração, resolução de problemas, autogerenciamento e responsabilização.
 
 
-
 <img src="" alt="">
-
-## :books: Funcionalidades
-* <b>Funcionalidade 1</b>: Pagina única
-
-
-## 📦 Status do projeto
-Primeira versão Finalizada.
-
-## :dart: Implementação futura
-
-- [ ] Formulário de Contato.
 
 
 ## 🛠️ Tecnologias utilizadas
@@ -33,8 +21,7 @@ Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando 
 <linha de comando>
 ```
 
-<!-- CONTACT -->
-## Contact
+## Contato
 
 E-mail - patriciasilva.dev@gmail.com
 
