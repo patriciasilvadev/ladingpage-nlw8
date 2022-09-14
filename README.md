@@ -1,34 +1,48 @@
-# NLW Return
+<h1 align="center">DoctorCare</h1>
 
-Construindo uma aplicação completa de 2 a 8 de maio e acelerando minha evolução para o próximo nível na programação com a Rocketseat na NLW Return.
+## :memo: Descrição
+Projeto em desenvolvimento no evento NLW Return da Rocketseat. O DoctorCare é uma Landing Page responsiva desenhada inicialmente para a plataforma de consultas médicas.
 
-Na NLW temos a oportunidade de desenvolver habilidades técnicas e comportamentais:
-
-**Hard skills**
-
-Fundamentos da Web, Front-end e Back-end.
-
-**Soft skills**
-
-Comunicação, colaboração, resolução de problemas, autogerenciamento e responsabilização. 
+O objetivo desse projeto é desenvolver habilidades técnicas com linguagens voltadas para o desenvolvimento Front-end e habilidades comportamentais como comunicação, colaboração, resolução de problemas, autogerenciamento e responsabilização.
 
 
-## O Projeto
 
-**Mission: Origin**
+<img src="" alt="">
 
-Para quem está no inicio da jornada.
-
-Esse projeto é o layout de uma landing page responsiva e personalizável desenhada inicialmente para a plataforma de consultas médicas DoctorCare.
+## :books: Funcionalidades
+* <b>Funcionalidade 1</b>: Pagina única
 
 
-## Tecnologias utilizadas
+## 📦 Status do projeto
+Primeira versão Finalizada.
 
-* HTML (HyperText Markup Language)
+## :dart: Implementação futura
 
-é uma linguagem de marcação de HiperTexto utilizada na construção de páginas na Web.
+- [ ] Formulário de Contato.
 
-* CSS (Cascading Style Sheets)
 
-é uma linguagem de estilo, também conhecida como folhas de estilo em cascata, para adicionar estilo a uma página na web.
+## 🛠️ Tecnologias utilizadas
+* HTML (linguagem de marcação de HiperTexto);
+* CSS (linguagem de estilo);
+* Javascript (linguagem de programação);
+* VS Code (Editor de código);
+
+## 🚀 Rodando o projeto
+Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando para iniciar o projeto:
+```
+<linha de comando>
+```
+
+<!-- LICENSE -->
+## 📄 License
+Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+
+<!-- CONTACT -->
+## Contact
+
+E-mail - patriciasilva.dev@gmail.com
+
+Desenvolvido com ❤️ Patrícia Silva
+
 
